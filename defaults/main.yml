@@ -1,5 +1,5 @@
 ---
-wp_version: 5.0.3
+#wp_version: 5.0.3
 wp_install_dir: '/var/www/html'
 wp_db_name: "{{ wp_mysql_db }}"
 wp_db_user: "{{ wp_mysql_user }}"
